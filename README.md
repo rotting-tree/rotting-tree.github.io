@@ -8,5 +8,11 @@ really know how to use it.
 
 
 if you have any suggutions: https://forms.gle/ofZodhEV3PmKjoGKA
+if you fill this out I will put the game on the site, if not I will put a simalliar game on the site.
 
+
+current games:
+https://rotting-tree.github.io/cookieclicker/
+https://rotting-tree.github.io/particle-clicker/
+https://rotting-tree.github.io/idle-breakout/
 
