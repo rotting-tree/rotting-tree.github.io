@@ -19,3 +19,5 @@ https://rotting-tree.github.io/idle-breakout/
 
 https://rotting-tree.github.io/retro-bowl-2/
 
+https://rotting-tree.github.io/bitlife/
+
