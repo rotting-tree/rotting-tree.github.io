@@ -25,3 +25,5 @@ https://rotting-tree.github.io/slope/
 
 https://rotting-tree.github.io/asteroids/
 
+https://rotting-tree.github.io/hauberk/
+
