@@ -21,3 +21,5 @@ https://rotting-tree.github.io/retro-bowl-2/
 
 https://rotting-tree.github.io/bitlife/
 
+https://rotting-tree.github.io/slope/
+
